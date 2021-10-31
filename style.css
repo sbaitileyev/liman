@@ -1,0 +1,15 @@
+h1 {
+    background-color: brown;
+    color:  navy;
+}
+main{
+    background-color: navy;
+    color: rgb(253, 0, 0);
+}
+h2{
+    border: 8px solid rgb(77, 72, 72);
+}
+h3{
+    border:2px rgb(0, 121, 109);
+}
+
